@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Th4l4
 - 👀 I’m interested in Web app Pentesting
-- 🌱 I’m currently learning Finding out Vulnerabilities
-- 💞️ I can code in C, Python, Java
+- 🌱 I’m currently learning Networking
+- 💞️ I can code in C, Python
 - 📫 How to reach me - Using Linkedin -->   https://www.linkedin.com/in/bhavani-prasad-sharma-3673611b7/
 
 <!---
